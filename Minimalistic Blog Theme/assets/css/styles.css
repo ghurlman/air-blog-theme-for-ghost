@@ -461,10 +461,10 @@ h1, h2, h3, h4, h5, h6 {
 
 a {
   text-decoration: none;
-  color: #cccccc;
+  color: #663399;
   transition: all 0.3s ease; }
   a:hover {
-    color: #222222; }
+    color: #8642cb; }
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   color: #222222; }
@@ -864,11 +864,11 @@ body.post-template .site-header h2 .logo {
   float: right;
 }
 
-ul > li > a {
+ul.social > li > a {
   color: #c3c3c3;
 }
 
-  ul > li > a:hover {
+  ul.social > li > a:hover {
        color: white;
   }
 
