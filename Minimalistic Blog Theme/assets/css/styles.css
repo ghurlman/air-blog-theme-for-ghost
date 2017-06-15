@@ -461,10 +461,14 @@ h1, h2, h3, h4, h5, h6 {
 
 a {
   text-decoration: none;
-  color: #663399;
+  color: inherit;
   transition: all 0.3s ease; }
   a:hover {
     color: #8642cb; }
+
+.postcontent a {
+  border-bottom: 2px solid rebeccapurple;
+}
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   color: #222222; }
@@ -875,3 +879,21 @@ ul.social > li > a {
 .link > a:hover {
        color: white;
   }
+
+p.imgcontainer  {
+  font-size: 0.8em;
+  font-style: italic;
+  line-height: normal;
+}
+
+div.home-template p.featurecaption {
+  display: block;
+  font-size: 0.8em;
+  font-style: italic;
+  line-height: normal;
+  margin-top: 0;
+}
+
+div.post-template p.featurecaption {
+  display: none;
+}
