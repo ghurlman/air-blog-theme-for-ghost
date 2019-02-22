@@ -1,6 +1,16 @@
 {
   "name": "fresh-air",
-  "version": "1.0.1",
-  "author": "Greg Hurlman",
-  "description": "Fresh Air"
+  "version": "1.1.1",
+  "author": {
+    "name": "Greg Hurlman",
+    "email": "greg@greghurlman.com"
+  },
+  "description": "Fresh Air",
+  "engines": {
+    "ghost": ">=1.0.0"
+  },
+  "license": "MIT",
+  "config": {
+    "posts_per_page": 10
+  }
 }
