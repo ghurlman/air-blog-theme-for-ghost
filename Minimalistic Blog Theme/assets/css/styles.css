@@ -897,3 +897,11 @@ div.home-template p.featurecaption {
 div.post-template p.featurecaption {
   display: none;
 }
+
+.kg-width-wide img {
+  max-width: 85vw;
+}
+
+.kg-width-full img {
+  max-width: 100vw;
+}
