@@ -10,7 +10,7 @@ Forked from https://github.com/rriegger/MinimalisticBlogTheme
 * Log in to Ghost administration panel
 * Go to General > Themes > Upload a theme 
 * Find and select the previously created zip file
-* Wait for upload completion and activate the new theme
+* Wait for upload completion and activate the new theme!
 
 ## Copyright & License
 
